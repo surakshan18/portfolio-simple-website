@@ -1,0 +1,126 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'young serif', 'serif';
+}
+container{
+    padding: 50px;
+}
+.one{
+    background-color: black;
+    color: whitesmoke;
+    padding: 20px;
+}
+.one__contact{
+    background-color: blueviolet;
+    color: whitesmoke;
+    border-radius: 5px;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;   
+    padding-top: 5px;
+    padding-bottom: 5px;   
+    display: inline-block;
+    margin: 15px;
+}
+.one__name{
+    font-size: 50px;
+}
+.one__title{
+    font-size: 25px;
+    margin-top: 15px;
+}
+.two,.three,.four,.five{
+    margin-top: 20px;
+}
+.one__title,.two__des,.three__des,.four__des,.five__id{
+    margin-top: 20px;
+}
+.five{
+    background-color: black;
+    color: whitesmoke;
+    padding: 20px;
+}
+.five__id a{
+    color: skyblue;
+}
+
+*{
+    padding: 5px;
+}
+
+.three li,.four li{
+    list-style: none;
+}
+.three{
+    background-color: #6462fd;
+    color: rgb(226, 14, 226);
+    padding: 20px;
+    display: inline-block;
+    height: 200px;
+    border-radius: 10px;
+    vertical-align: top;
+}
+
+.four{
+    background: #fe7515;
+    color: #000;
+    padding: 20px;
+    display: inline-block;
+    height: 300px;
+    border-radius: 10px;
+    vertical-align: top;
+}
+
+
+
+.c1{
+    background: #000;
+    color: whitesmoke;
+}
+
+.c1__name{
+    font-size: 50px;
+}
+.c1__des{
+    font-size: 25px;
+}
+
+.c1__home{
+    background-color: orangered;
+    color: whitesmoke;
+    text-decoration: none;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;   
+    padding-top: 5px;
+    padding-bottom: 5px;   
+    display: inline-block;
+    margin: 15px;
+}
+
+
+.c2__name{
+    background: #000;
+    color: whitesmoke;
+
+}
+
+.c2__name a{
+    color: skyblue;
+}
+#mm:hover{
+    background: #bce117;
+    color: purple;
+    border-radius: 2px;
+    
+}
+
+
+#mm{
+    background: lightgrey;
+    color: blueviolet;
+
+}
